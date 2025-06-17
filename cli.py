@@ -1,6 +1,6 @@
 #from functions import get_todos ,write_todos
 #imports the get_todos and write_todo function from the function.py file
-import functions
+#import functions
 import  time
 #Use for importing date and time functions so that we can use in our code
 now = time.strftime("%B %d, %Y %H:%M:%S")
